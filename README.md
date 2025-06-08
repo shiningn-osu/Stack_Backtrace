@@ -78,5 +78,5 @@ r15    102788977790424 (0x5d7c6c820dd8)
 
 ## Authors
 
-Aron Meraz (meraza@oregonstate.edu), Nicholas Shininger (shiningn@oregonstate.edu), 
+Aron Meraz (meraza@oregonstate.edu), Nicholas Shininger (shiningn@oregonstate.edu)
 Oregon State University
