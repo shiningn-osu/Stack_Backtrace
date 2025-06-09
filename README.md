@@ -1,5 +1,5 @@
 # Stack_Backtrace
-Stack backtrace and Register dump, assign 3 for CS 271
+Stack backtrace and Register dump, Assignment 3 for CS 271
 
 ## Overview
 
@@ -78,5 +78,5 @@ r15    102788977790424 (0x5d7c6c820dd8)
 
 ## Authors
 
-Aron Meraz (meraza@oregonstate.edu), Nicholas Shininger (shiningn@oregonstate.edu)
+Aron Meraz (meraza@oregonstate.edu), Nicholas Shininger (shiningn@oregonstate.edu), America X. Pacheco (pachecam@oregonstate.edu)
 Oregon State University
